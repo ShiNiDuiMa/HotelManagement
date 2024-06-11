@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{446CA8DB-90E6-456D-9BFA-A7DFF8288903}|hotel\\HotelForm.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\hotel\\managecustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{446CA8DB-90E6-456D-9BFA-A7DFF8288903}|hotel\\HotelForm.csproj|solutionrelative:hotel\\managecustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446CA8DB-90E6-456D-9BFA-A7DFF8288903}|hotel\\HotelForm.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\hotel\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{446CA8DB-90E6-456D-9BFA-A7DFF8288903}|hotel\\HotelForm.csproj|solutionrelative:hotel\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446CA8DB-90E6-456D-9BFA-A7DFF8288903}|hotel\\HotelForm.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\hotel\\manageprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{446CA8DB-90E6-456D-9BFA-A7DFF8288903}|hotel\\HotelForm.csproj|solutionrelative:hotel\\manageprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446CA8DB-90E6-456D-9BFA-A7DFF8288903}|hotel\\HotelForm.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\hotel\\manageroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{446CA8DB-90E6-456D-9BFA-A7DFF8288903}|hotel\\HotelForm.csproj|solutionrelative:hotel\\manageroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A255FA1E-9BB8-4191-8B43-E1481EAF5892}|Services\\Services.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A255FA1E-9BB8-4191-8B43-E1481EAF5892}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A255FA1E-9BB8-4191-8B43-E1481EAF5892}|Services\\Services.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A255FA1E-9BB8-4191-8B43-E1481EAF5892}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A351F565-DDF2-42B1-A901-CDAE56C081A9}|DataAccessObjects\\DataAccessObjects.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A351F565-DDF2-42B1-A901-CDAE56C081A9}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68A23B6-BC68-4D6D-B13E-47C6E5B8801A}|Repositories\\Repositories.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68A23B6-BC68-4D6D-B13E-47C6E5B8801A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68A23B6-BC68-4D6D-B13E-47C6E5B8801A}|Repositories\\Repositories.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68A23B6-BC68-4D6D-B13E-47C6E5B8801A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68800883-4E3E-4F6F-9EAA-83A286B19EFA}|Objects\\Objects.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\objects\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68800883-4E3E-4F6F-9EAA-83A286B19EFA}|Objects\\Objects.csproj|solutionrelative:objects\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A351F565-DDF2-42B1-A901-CDAE56C081A9}|DataAccessObjects\\DataAccessObjects.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\dataaccessobjects\\roominfodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A351F565-DDF2-42B1-A901-CDAE56C081A9}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\roominfodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A255FA1E-9BB8-4191-8B43-E1481EAF5892}|Services\\Services.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\services\\iroomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A255FA1E-9BB8-4191-8B43-E1481EAF5892}|Services\\Services.csproj|solutionrelative:services\\iroomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A255FA1E-9BB8-4191-8B43-E1481EAF5892}|Services\\Services.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\services\\iroominfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A255FA1E-9BB8-4191-8B43-E1481EAF5892}|Services\\Services.csproj|solutionrelative:services\\iroominfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A255FA1E-9BB8-4191-8B43-E1481EAF5892}|Services\\Services.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\services\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A255FA1E-9BB8-4191-8B43-E1481EAF5892}|Services\\Services.csproj|solutionrelative:services\\roomtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A255FA1E-9BB8-4191-8B43-E1481EAF5892}|Services\\Services.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\services\\roominfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A255FA1E-9BB8-4191-8B43-E1481EAF5892}|Services\\Services.csproj|solutionrelative:services\\roominfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68A23B6-BC68-4D6D-B13E-47C6E5B8801A}|Repositories\\Repositories.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\repositories\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68A23B6-BC68-4D6D-B13E-47C6E5B8801A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68800883-4E3E-4F6F-9EAA-83A286B19EFA}|Objects\\Objects.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\objects\\roominfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68800883-4E3E-4F6F-9EAA-83A286B19EFA}|Objects\\Objects.csproj|solutionrelative:objects\\roominfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68A23B6-BC68-4D6D-B13E-47C6E5B8801A}|Repositories\\Repositories.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\repositories\\iroominforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68A23B6-BC68-4D6D-B13E-47C6E5B8801A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iroominforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68A23B6-BC68-4D6D-B13E-47C6E5B8801A}|Repositories\\Repositories.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\repositories\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68A23B6-BC68-4D6D-B13E-47C6E5B8801A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A351F565-DDF2-42B1-A901-CDAE56C081A9}|DataAccessObjects\\DataAccessObjects.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\dataaccessobjects\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A351F565-DDF2-42B1-A901-CDAE56C081A9}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68800883-4E3E-4F6F-9EAA-83A286B19EFA}|Objects\\Objects.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\objects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68800883-4E3E-4F6F-9EAA-83A286B19EFA}|Objects\\Objects.csproj|solutionrelative:objects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68A23B6-BC68-4D6D-B13E-47C6E5B8801A}|Repositories\\Repositories.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\repositories\\roominforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68A23B6-BC68-4D6D-B13E-47C6E5B8801A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\roominforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446CA8DB-90E6-456D-9BFA-A7DFF8288903}|hotel\\HotelForm.csproj|d:\\summer 2024\\prn391\\hotelmanagement\\hotel\\hotel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{446CA8DB-90E6-456D-9BFA-A7DFF8288903}|hotel\\HotelForm.csproj|solutionrelative:hotel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446CA8DB-90E6-456D-9BFA-A7DFF8288903}|hotel\\hotel.csproj|D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\hotel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446CA8DB-90E6-456D-9BFA-A7DFF8288903}|hotel\\hotel.csproj|solutionrelative:hotel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.xaml",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\hotel\\login.xaml",
+              "RelativeDocumentMoniker": "hotel\\login.xaml",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\hotel\\login.xaml",
+              "RelativeToolTip": "hotel\\login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T16:10:59.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageCustomer.xaml",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\hotel\\ManageCustomer.xaml",
+              "RelativeDocumentMoniker": "hotel\\ManageCustomer.xaml",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\hotel\\ManageCustomer.xaml",
+              "RelativeToolTip": "hotel\\ManageCustomer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T16:12:34.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageProfile.xaml",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\hotel\\ManageProfile.xaml",
+              "RelativeDocumentMoniker": "hotel\\ManageProfile.xaml",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\hotel\\ManageProfile.xaml",
+              "RelativeToolTip": "hotel\\ManageProfile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T16:13:34.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageRoom.xaml",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\hotel\\ManageRoom.xaml",
+              "RelativeDocumentMoniker": "hotel\\ManageRoom.xaml",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\hotel\\ManageRoom.xaml",
+              "RelativeToolTip": "hotel\\ManageRoom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T16:13:12.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:58:59.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:58:47.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\AccountDAO.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\AccountDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:58:29.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:58:15.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:57:59.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Objects\\Account.cs",
+              "RelativeDocumentMoniker": "Objects\\Account.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Objects\\Account.cs",
+              "RelativeToolTip": "Objects\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:57:45.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRoomTypeService.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Services\\IRoomTypeService.cs",
+              "RelativeDocumentMoniker": "Services\\IRoomTypeService.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Services\\IRoomTypeService.cs",
+              "RelativeToolTip": "Services\\IRoomTypeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:52:33.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomInfoDAO.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\DataAccessObjects\\RoomInfoDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\RoomInfoDAO.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\DataAccessObjects\\RoomInfoDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\RoomInfoDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:45:06.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRoomInfoService.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Services\\IRoomInfoService.cs",
+              "RelativeDocumentMoniker": "Services\\IRoomInfoService.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Services\\IRoomInfoService.cs",
+              "RelativeToolTip": "Services\\IRoomInfoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:52:16.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomTypeService.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Services\\RoomTypeService.cs",
+              "RelativeDocumentMoniker": "Services\\RoomTypeService.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Services\\RoomTypeService.cs",
+              "RelativeToolTip": "Services\\RoomTypeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:51:52.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Repositories\\IRoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRoomTypeRepository.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Repositories\\IRoomTypeRepository.cs",
+              "RelativeToolTip": "Repositories\\IRoomTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:51:11.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoomInfoService.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Services\\RoomInfoService.cs",
+              "RelativeDocumentMoniker": "Services\\RoomInfoService.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Services\\RoomInfoService.cs",
+              "RelativeToolTip": "Services\\RoomInfoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:45:57.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRoomInfoRepository.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Repositories\\IRoomInfoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRoomInfoRepository.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Repositories\\IRoomInfoRepository.cs",
+              "RelativeToolTip": "Repositories\\IRoomInfoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:50:33.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Repositories\\RoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RoomTypeRepository.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Repositories\\RoomTypeRepository.cs",
+              "RelativeToolTip": "Repositories\\RoomTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:49:29.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomInfo.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Objects\\RoomInfo.cs",
+              "RelativeDocumentMoniker": "Objects\\RoomInfo.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Objects\\RoomInfo.cs",
+              "RelativeToolTip": "Objects\\RoomInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:43:46.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomTypeDAO.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\DataAccessObjects\\RoomTypeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\RoomTypeDAO.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\DataAccessObjects\\RoomTypeDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\RoomTypeDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:48:47.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Objects\\RoomType.cs",
+              "RelativeDocumentMoniker": "Objects\\RoomType.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Objects\\RoomType.cs",
+              "RelativeToolTip": "Objects\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:47:16.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoomInfoRepository.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Repositories\\RoomInfoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RoomInfoRepository.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\Repositories\\RoomInfoRepository.cs",
+              "RelativeToolTip": "Repositories\\RoomInfoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:45:33.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\hotel\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "hotel\\MainWindow.xaml",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\hotel\\MainWindow.xaml",
+              "RelativeToolTip": "hotel\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T15:23:11.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\hotel\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "hotel\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Summer 2024\\PRN391\\HotelManagement\\hotel\\hotel\\MainWindow.xaml.cs",
+              "RelativeToolTip": "hotel\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:23:10.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

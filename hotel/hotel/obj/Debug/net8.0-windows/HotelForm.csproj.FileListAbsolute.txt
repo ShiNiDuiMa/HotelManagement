@@ -1,0 +1,8 @@
+D:\Summer 2024\PRN391\HotelManagement\hotel\hotel\obj\Debug\net8.0-windows\login.g.cs
+D:\Summer 2024\PRN391\HotelManagement\hotel\hotel\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Summer 2024\PRN391\HotelManagement\hotel\hotel\obj\Debug\net8.0-windows\ManageCustomer.g.cs
+D:\Summer 2024\PRN391\HotelManagement\hotel\hotel\obj\Debug\net8.0-windows\ManageProfile.g.cs
+D:\Summer 2024\PRN391\HotelManagement\hotel\hotel\obj\Debug\net8.0-windows\ManageRoom.g.cs
+D:\Summer 2024\PRN391\HotelManagement\hotel\hotel\obj\Debug\net8.0-windows\App.g.cs
+D:\Summer 2024\PRN391\HotelManagement\hotel\hotel\obj\Debug\net8.0-windows\HotelForm_MarkupCompile.cache
+D:\Summer 2024\PRN391\HotelManagement\hotel\hotel\obj\Debug\net8.0-windows\HotelForm_MarkupCompile.lref
